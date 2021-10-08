@@ -4,6 +4,8 @@
 # 3.updating UI options based on some other UI result - ie. only varieties from whichever vegetable is selected
 
 ## updating UI options based on some other UI result
+## This is just one example
+## See more here: https://mastering-shiny.org/action-dynamic.html#updating-inputs
 
 # In this step we set up the UI
 
